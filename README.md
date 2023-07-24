@@ -1,2 +1,2 @@
 # Hazel
-A clone of hazel Engine by The Cherno
+A clone of the Hazel Engine by The Cherno
